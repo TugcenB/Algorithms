@@ -16,6 +16,7 @@ class Program
 {
     public static void Main(string[] args)
     {
+
         var list = new List<int>()
         {
             1, 2, 3, 4,5
@@ -109,6 +110,12 @@ class Program
         Console.WriteLine(plus / tot);
         Console.WriteLine(minus / tot);
         Console.WriteLine(zero / tot);
+    }
+    public static void miniMaxSum(List<int> arr)
+    {
+        string minArr = (arr.Sum() - arr.Max()).ToString();
+        string maxArr = (arr.Sum() - arr.Min()).ToString();
+        Console.WriteLine(minArr + " " + maxArr);
     }
 
 }

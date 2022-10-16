@@ -1,0 +1,15 @@
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\bin\Debug\net6.0\DataTypes.exe
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\bin\Debug\net6.0\DataTypes.dll
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\obj\Debug\net6.0\DataTypes.csproj.AssemblyReference.cache
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\obj\Debug\net6.0\DataTypes.dll
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+C:\Users\Tugce\source\repos\HackerrankSoln\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
