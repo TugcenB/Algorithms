@@ -117,7 +117,22 @@ class Program
         string maxArr = (arr.Sum() - arr.Min()).ToString();
         Console.WriteLine(minArr + " " + maxArr);
     }
+    public static List<int> gradingStudents(List<int> grades)
+    {
+        List<int> gradesRound = new List<int>();
+        for (int i = 0; i < grades.Count; i++)
+        {
+            double x = grades[i] / 10;
+            int y = grades[i] / 10;
+            double tot = x - y;
+            tot = tot * 10;
+            int tot1 = Convert.ToInt32(tot) + y;
+            gradesRound.Add(tot1);
+        }
+        
+        return gradesRound;
 
+    }
 }
 
 
